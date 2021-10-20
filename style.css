@@ -1,0 +1,67 @@
+.body {
+	width: 50%;
+	margin: 50px auto 0px;
+	color: black;
+	background: whitesmoke;
+	text-align: left;
+	border: 6px solid blue;
+	border-radius: 0px 0px 0px 0px;
+	padding: 20px;
+}
+.head{
+    color:blue;
+}
+.table { 
+    border-radius: 10px 10px 10px 10px;
+    border-collapse: collapse;
+    border: 6px solid blue;
+}
+.table1 { 
+    border-radius: 10px 10px 10px 10px;
+    border-collapse: collapse;
+    border: 6px solid blue;
+   
+}
+
+.table tr td:hover{
+    background-color:#5F9EA0; 
+   
+}
+.table1 tr:hover{
+    background-color:#5F9EA0; 
+   table-layout: fixed;
+}
+.table2 tr:hover{
+    background-color:#5F9EA0; 
+   table-layout: fixed;
+   width:15%;
+}
+th{border: 2px solid blue;}
+tr{border: 2px solid blue;}
+td{
+    border: 2px solid blue;
+   
+}
+td{
+    border: 2px solid blue;
+    width:50%;
+}
+.table2{ border-radius: 20px 20px 20px 20px;
+    border-collapse: collapse;
+    border: 2px solid blue;
+}
+.btn{
+    width: 25%;
+    height:10%;
+    border-radius: 25% 25% 25% 25%;
+    color:green;
+   border: 2px solid blue;
+   
+}
+.btn:hover{
+    background-color:#5F9EA0; 
+  
+}
+.bg{
+   background:whitesmoke; 
+}
